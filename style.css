@@ -1,0 +1,103 @@
+ body{
+     margin: 0%;
+     margin-top: -22px;
+     margin-bottom: -22px;
+ }
+ .header{
+     background-image: linear-gradient(#8EC5FC, #E0C3FC);
+     color: white;
+     font-size: 25px;
+     font-weight: 700;
+     text-align: center;
+     padding: 20px;
+ }
+ #link{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    border-radius: 8px;
+ }
+ .flex-container{
+     display: flex;
+     margin-top: 100px;
+ }
+ .half-width{
+     width: 50%;
+ }
+ #audio{
+     background-image: linear-gradient(#00DBDE,#FC00FF);
+     margin-right: 80px;
+     margin-left: 80px;
+     padding-left: 40px;
+     padding-top: 40px;
+     border-radius: 10px;
+ }
+ #video{
+     background-image: linear-gradient(#FBAB7E, #F7CE68);
+     margin-right: 80px;
+     padding-left: 40px;
+     padding-top: 40px;
+     border-radius: 10px;
+ }
+ .youtube{
+     display: block;
+     text-align: center;
+     margin-top: 100px;
+ }
+ #youtube-article{
+     color: white;
+     font-weight: 700;
+     background-image: linear-gradient(orange, tomato);
+     padding: 20px;
+     margin-left: 400px;
+     margin-right: 400px;
+     border-radius: 5px;
+ }
+ #watch{
+     color: royalblue;
+ }
+ #road-heaven{
+    text-align: justify;
+    background-image: linear-gradient(#FBAB7E, #F7CE68);
+    margin-right: 80px;
+    margin-left: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 10px;
+ }
+ #image{
+     margin-right: 40px;
+     padding-top: 20px;
+     height: 300px;
+ }
+ #neo{
+     color: tomato;
+ }
+ #neo-writting{
+    text-align: justify;
+    background-image: linear-gradient(#21D4FD, #B721FF);
+    margin-left: 40px;
+    margin-right: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    border-radius: 10px;
+ }
+ #pic-neo{
+    margin-right: 40px;
+    width: 500px;
+    height: 400px;
+    margin-left: 55px;
+ }
+ #enter-the-matrix{
+     text-align: center;
+     margin-top: 100px;
+ }
+ #footer{
+     color: white;
+     text-align: center;
+     background-color: black;
+     margin-top: 100px;
+     padding: 10px;
+ }
